@@ -26,7 +26,7 @@ jobs:
         uses: Platane/snk/svg-only@v1.1.2
         with:
           github_user_name: CaioGunz
-          svg_out_path: https://github.com/CaioGunz/CaioGunz/blob/8e43cf5df3cf3b2c5c300a612bf720f0cb33703f/.github/workflows/github-user-contribution.svg
+          svg_out_path: dist/github-user-contribution.svg
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
