@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioGunz&show_icons=true&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGunz&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-
+    
 #### Sobre Min
 👨‍🎓 Graduando em Engenharia de Software.
 👨🏻‍💻 Estudando a cultura DevOps e suas ferramentas Linux | Git | Java | Python | Mysql | com foco para desenvolvimento em Backend.
