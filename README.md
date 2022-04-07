@@ -1,15 +1,21 @@
 
 ### Olá, Meu Nome é Caio 👋
 
+##
+
 <div>
     <a href="https://github.com/riversdiniz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioGunz&show_icons=true&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGunz&layout=compact&langs_count=8&theme=dracula"/>
 </div>
     
+##
+    
 #### Sobre Min
 👨‍🎓 Graduando em Engenharia de Software.
 👨🏻‍💻 Estudando a cultura DevOps e suas ferramentas Linux | Git | Java | Python | Mysql | com foco para desenvolvimento em Backend.
+    
+##
   
  #### Linguagens e Ferramentas
   
@@ -21,9 +27,13 @@
   <img align="center" alt="github" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 </div>
-
-   ![Snake animation](https://github.com/CaioGunz/CaioGunz/blob/output/github-user-contribution.svg)
     
+##
+    
+   ![Snake animation](https://github.com/CaioGunz/CaioGunz/blob/output/github-user-contribution.svg)
+   
+##
+ 
 <div> 
     <a href="https://br.linkedin.com/in/caiobarbosadearaujo" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:caiobarbosa2404@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
