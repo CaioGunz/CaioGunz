@@ -24,7 +24,7 @@
   <img align="center" alt="Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 </div>
 
-   ![Snake animation](https://github.com/CaioGunz/CaioGunz/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/CaioGunz/CaioGunz/blob/output/github-user-contribution.svg)
     
 <div> 
     <a href="https://br.linkedin.com/in/caiobarbosadearaujo" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
