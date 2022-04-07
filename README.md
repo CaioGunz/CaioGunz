@@ -5,8 +5,8 @@
 
 <div>
     <a href="https://github.com/riversdiniz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioGunz&show_icons=true&theme=dracula"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGunz&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioGunz&show_icons=true&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGunz&layout=compact&langs_count=8&theme=dracula"/>
 </div>
     
 ##
