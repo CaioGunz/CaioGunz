@@ -13,7 +13,7 @@
     
 #### Sobre Min
 👨‍🎓 Graduando em Engenharia de Software.
-👨🏻‍💻 Estudando a cultura DevOps e suas ferramentas Linux | Git | Java | Python | Mysql | com foco para desenvolvimento em Backend.
+👨🏻‍💻 Estudando a cultura DevOps e suas ferramentas Linux | Git | Java | Python | Mysql | com foco para Ciência de Dados.
     
 ##
   
