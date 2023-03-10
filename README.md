@@ -26,8 +26,8 @@
   <img align="center" alt="git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="github" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Python" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-  <img aling="center" alt="html" height="40" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=148&color=ffffff" />
-  <img aling="center" alt="css" height="40" width="60" src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=148&color=0091ff" />
+  <img align="center" alt="html" height="40" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=148&color=ffffff" />
+  <img align="center" alt="css" height="40" width="60" src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=148&color=0091ff" />
 </div>
     
 ##
