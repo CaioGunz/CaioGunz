@@ -1,4 +1,4 @@
-<img src="assets/darksouls-top.gif" width=2000 height=150>
+<img src="assets/darksouls-top.gif" width=2000 height=300>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
@@ -96,5 +96,5 @@
   <a href="https://github.com/CaioGunz?tab=repositories" title="Ver mais">🔎 Ver mais 🔎</a>
 </h4>
 
-<img src="assets/darksouls-down.gif" width=2000 height=150>
+<img src="assets/darksouls-down.gif" width=2000 height=300>
 
