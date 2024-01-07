@@ -1,5 +1,3 @@
-<img src="assets/darksouls-top.gif" width=2000 height=300>
-
 <h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2D9DCF&random=false&width=435&lines=Seja+Bem-vindo!+%F0%9F%91%8B"/>
