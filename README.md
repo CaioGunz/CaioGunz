@@ -9,7 +9,7 @@
   Olá! Meu nome é Caio Araujo, tenho 22 anos e sou Analista de Dados
   <br>
   <br>
-  📚 Atualmente estou cursando uma formação de Qlik Sense pelo Mago dos Dados
+  📚 Atualmente estou cursando uma formação de Power BI pela Alura
   <br>
   🎓 Sou estudante de Engenharia de Software na UniCesumar de Maringá
   <br>
