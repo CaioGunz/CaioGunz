@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2D9DCF&random=false&width=435&lines=Seja+Bem-vindo!+%F0%9F%91%8B"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=008485&random=false&width=435&lines=Seja+Bem-vindo!+%F0%9F%91%8B"/>
     </a>
 </h1>
 
@@ -39,24 +39,24 @@
 
 <div align="center">
   <h2>:fire: Tecnologias :fire:</h2>
-    <img src="https://img.shields.io/badge/Python-013243?style=for-the-badge&logo=Python"/>
-    <img src="https://img.shields.io/badge/Power Bi-013243?style=for-the-badge&logo=powerbi"/>
-    <img src="https://img.shields.io/badge/jupyter-013243?style=for-the-badge&logo=jupyter"/>
-    <img src="https://img.shields.io/badge/qlik-013243?style=for-the-badge&logo=qlik"/>
-    <img src="https://img.shields.io/badge/java-013243?style=for-the-badge&logo=oracle"/>
-    <img src="https://img.shields.io/badge/SQL-013243?style=for-the-badge&logo=sqlite"/>
-    <img src="https://img.shields.io/badge/microsoft excel-013243?style=for-the-badge&logo=microsoftexcel"/>
-    <img src="https://img.shields.io/badge/vs code-013243?style=for-the-badge&logo=visualstudiocode"/>
-    <img src="https://img.shields.io/badge/grafana-013243?style=for-the-badge&logo=grafana"/>
-    <img src="https://img.shields.io/badge/r-013243?style=for-the-badge&logo=r"/>
-    <img src="https://img.shields.io/badge/apache airflow-013243?style=for-the-badge&logo=apacheairflow"/>
-    <img src="https://img.shields.io/badge/apache spark-013243?style=for-the-badge&logo=apachespark"/>
+    <img src="https://img.shields.io/badge/Python-026869?style=for-the-badge&logo=Python"/>
+    <img src="https://img.shields.io/badge/Power Bi-026869?style=for-the-badge&logo=powerbi"/>
+    <img src="https://img.shields.io/badge/jupyter-026869?style=for-the-badge&logo=jupyter"/>
+    <img src="https://img.shields.io/badge/qlik-026869?style=for-the-badge&logo=qlik"/>
+    <img src="https://img.shields.io/badge/java-026869?style=for-the-badge&logo=oracle"/>
+    <img src="https://img.shields.io/badge/SQL-026869?style=for-the-badge&logo=sqlite"/>
+    <img src="https://img.shields.io/badge/microsoft excel-026869?style=for-the-badge&logo=microsoftexcel"/>
+    <img src="https://img.shields.io/badge/vs code-026869?style=for-the-badge&logo=visualstudiocode"/>
+    <img src="https://img.shields.io/badge/grafana-026869?style=for-the-badge&logo=grafana"/>
+    <img src="https://img.shields.io/badge/r-026869?style=for-the-badge&logo=r"/>
+    <img src="https://img.shields.io/badge/apache airflow-026869?style=for-the-badge&logo=apacheairflow"/>
+    <img src="https://img.shields.io/badge/apache spark-026869?style=for-the-badge&logo=apachespark"/>
     <br>
     <br>
-    <img src="https://img.shields.io/badge/selenium-013243?style=for-the-badge&logo=selenium"/>
-    <img src="https://img.shields.io/badge/pandas-013243?style=for-the-badge&logo=pandas"/>
-    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy"/>
-    <img src="https://img.shields.io/badge/Beautiful Soup-013243?style=for-the-badge&logo=umami"/>
+    <img src="https://img.shields.io/badge/selenium-026869?style=for-the-badge&logo=selenium"/>
+    <img src="https://img.shields.io/badge/pandas-026869?style=for-the-badge&logo=pandas"/>
+    <img src="https://img.shields.io/badge/numpy-026869?style=for-the-badge&logo=numpy"/>
+    <img src="https://img.shields.io/badge/Beautiful Soup-026869?style=for-the-badge&logo=umami"/>
   <br><br>
 </div>
 
@@ -65,10 +65,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=420 src="https://github-readme-stats.vercel.app/api?username=CaioGunz&show_icons=true&theme=transparent" alt="CaioGunz" />
+      <img align="center" width=420 src="https://github-readme-stats.vercel.app/api?username=CaioGunz&show_icons=true&theme=transparent&title_color=008485" alt="CaioGunz" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGunz&hide_progress=true&theme=transparent" />
+      <img width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGunz&hide_progress=true&theme=transparent&title_color=008485" />
     </a>
     <br>
     <br>
@@ -79,14 +79,14 @@
     </p> 
   </div>
   <br>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioGunz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioGunz&theme=react-dark&bg_color=20232a&hide_border=true&title_color=008485&color=008485&line=008485" width="100%"/>
 </p>
 
 <h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/CaioGunz/BuscadorDeCep" title="Buscador de CEP"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGunz&repo=BuscadorDeCep&theme=transparent&border_color=61dafb&border_radius=10"></a>
-  <a align="center" href="https://github.com/CaioGunz/Study" title="Estudos"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGunz&repo=Study&theme=transparent&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/CaioGunz/BuscadorDeCep" title="Buscador de CEP"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGunz&repo=BuscadorDeCep&theme=transparent&border_color=white&border_radius=10&title_color=008485"></a>
+  <a align="center" href="https://github.com/CaioGunz/Study" title="Estudos"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGunz&repo=Study&theme=transparent&border_color=white&border_radius=10&title_color=008485"></a>
 </div>
 <br/><br/>
 
