@@ -29,8 +29,8 @@
   <a href="caiobarbosa2404@hotmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.gg/XdYzcCxXtk" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  <a href="https://caiogunz.github.io/portfolio-curriculo/" target="_blank">
+      <img src="https://img.shields.io/badge/Meu Site-035354?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank">
   </a>
   <br>
   <br>
