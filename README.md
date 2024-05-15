@@ -24,10 +24,10 @@
 <div align="center">
   <h2>:globe_with_meridians: Redes Sociais :globe_with_meridians:</h2>
   <a href="https://br.linkedin.com/in/caiobarbosadearaujo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="caiobarbosa2404@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="caiobarbosa2404@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
   <a href="https://caiogunz.github.io/portfolio-curriculo/" target="_blank">
       <img src="https://img.shields.io/badge/Meu Site-035354?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank">
