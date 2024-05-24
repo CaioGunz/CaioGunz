@@ -82,16 +82,6 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioGunz&theme=react-dark&bg_color=20232a&hide_border=true&title_color=008485&color=008485&line=008485" width="100%"/>
 </p>
 
-<h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="center" href="https://github.com/CaioGunz/coletaEcommerceAutomatica" title="WebScraping E-commerce"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGunz&repo=coletaEcommerceAutomatica&theme=transparent&border_color=white&border_radius=10&title_color=008485"></a>
-  <a align="center" href="https://github.com/CaioGunz/Study" title="Estudos"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGunz&repo=Study&theme=transparent&border_color=white&border_radius=10&title_color=008485"></a>
-  <a align="center" href="https://github.com/CaioGunz/powerBIProjects" title="Projetos Power BI"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGunz&repo=powerBIProjects&theme=transparent&border_color=white&border_radius=10&title_color=008485"></a>
-  <a align="center" href="https://github.com/CaioGunz/BuscadorDeCep" title="Buscador de CEP"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGunz&repo=BuscadorDeCep&theme=transparent&border_color=white&border_radius=10&title_color=008485"></a>
-</div>
-
-<br/>
 <br/>
 <br/>
 
