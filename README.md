@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  Olá! Meu nome é Caio Araujo, tenho 22 anos e sou Analista de Dados
+  Olá! Meu nome é Caio Araujo, tenho 23 anos e sou Analista de Dados
   <br>
   <br>
   📚 Atualmente estou cursando uma formação de Analista de Dados na plataforma Xperiun
