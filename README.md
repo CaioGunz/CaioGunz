@@ -9,9 +9,9 @@
   Olá! Meu nome é Caio Araujo, tenho 22 anos e sou Analista de Dados
   <br>
   <br>
-  📚 Atualmente estou cursando uma formação de Data Visualization: gráfico de composição e relacionamento
+  📚 Atualmente estou cursando uma formação de Power BI na plataforma Xperiun
   <br>
-  🎓 Sou estudante de Engenharia de Software na UniCesumar de Maringá
+  🎓 Sou Formado em Engenharia de Software na UniCesumar de Maringá
   <br>
   💻 Adoro escrever código e estou sempre buscando aprender coisas novas
   <br>
